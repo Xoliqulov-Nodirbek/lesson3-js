@@ -19,7 +19,7 @@ body{
 
 .form__input{
     display: block;
-    background-image: url("../bank.svg");
+    background-image: url("../images/bank.svg");
     background-repeat: no-repeat;
     background-position: 10px 8px;
     padding: 10px 20px 10px 40px;
